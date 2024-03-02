@@ -9,11 +9,14 @@ extension:
   - .ace
   - .ape
   - .apk
+  - .apng
   - .arc
   - .archive
   - .arj
   - .ark
+  - .asf
   - .avi
+  - .avif
   - .ba
   - .br
   - .bz2
@@ -36,8 +39,10 @@ extension:
   - .epub
   - .f4v
   - .flac
+  - .flv
   - .gho
   - .gif
+  - .gifv
   - .gnp
   - .gz
   - .iso
@@ -58,9 +63,11 @@ extension:
   - .mp4
   - .mpa
   - .mpc
+  - .mpe
   - .mpeg
   - .mpg
   - .mpl
+  - .mpv
   - .msi
   - .odp
   - .ods
@@ -73,6 +80,7 @@ extension:
   - .pea
   - .png
   - .pptx
+  - .qt
   - .rar
   - .s7z
   - .sfx
@@ -84,8 +92,6 @@ extension:
   - .tbz2
   - .tgz
   - .tib
-  - .tif
-  - .tiff
   - .tlz
   - .txz
   - .vob
